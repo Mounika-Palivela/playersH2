@@ -1,0 +1,11 @@
+insert into team(playerName, jerseyNumber, role) values('Alexander', 5, 'All-rounder');
+insert into team(playerName, jerseyNumber, role) values('Benjamin', 3, 'All-rounder');
+insert into team(playerName, jerseyNumber, role) values('Michael', 18, 'Batsman');
+insert into team(playerName, jerseyNumber, role) values('William', 45, 'Batsman');
+insert into team(playerName, jerseyNumber, role) values('Joshua', 19, 'Batsman');
+insert into team(playerName, jerseyNumber, role) values('Daniel', 10, 'Bowler');
+insert into team(playerName, jerseyNumber, role) values('Matthew', 34, 'Bowler');
+insert into team(playerName, jerseyNumber, role) values('Samuel', 17, 'Batsman');
+insert into team(playerName, jerseyNumber, role) values('John', 1, 'Bowler');
+insert into team(playerName, jerseyNumber, role) values('Earnest', 2, 'All-rounder');
+insert into team(playerName, jerseyNumber, role) values('Bob', 25, 'Batsman');
